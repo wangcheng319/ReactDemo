@@ -1,7 +1,7 @@
 /**
  * Created by wangc on 2017/8/10.
  */
-import App from './App';
+import App from '../css/App';
 import React from 'react';
 
 class Test extends App{

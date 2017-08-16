@@ -39,5 +39,5 @@ module.exports = {
 * -------------------
 * webpack --watch //js代码有更新立即自动重新编译生成bundle.js文件
 * webpack-dev-server//即时更新
-* webpack-dev-server --content-base src --inline --hot //即时更新
+* webpack-dev-server --contentbase src --inline --hot //即时更新
 * */
